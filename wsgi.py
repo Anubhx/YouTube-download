@@ -3,7 +3,7 @@ import os
 from app import app as application  # Assuming your Flask app is named "app" and located in "app.py"
 
 # Add your project directory to the PYTHONPATH
-sys.path.insert(0, '/home/yourusername/yourprojectdirectory')
+sys.path.insert(0, '/home/anubhax/mysite')
 
 # Activate the virtual environment (if used)
 # activate_this = '/home/yourusername/yourprojectdirectory/venv/bin/activate_this.py'
